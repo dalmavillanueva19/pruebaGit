@@ -1,2 +1,2 @@
-let sumar = (...numbers)=>numbers.reduce((acum,num)=> acum + num)
-module.exports = sumar
+let sumar23 = (...numbers)=>numbers.reduce((acum,num)=> acum + num)
+module.exports = sumar23
